@@ -7,7 +7,7 @@ public class TestClass1 {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello GIT London");
+		System.out.println("Hello GITHUB London");
 		
 		
 		int z,x,y;
