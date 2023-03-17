@@ -1,9 +1,1 @@
-tset
-Test 
-sdfsdssf
-master commit
-<<<<<<< HEAD
-sdffdsf
-=======
-sfsfsdf
->>>>>>> 0eaae9e592a9f558c5d5293e199e145921da259a
+Test
