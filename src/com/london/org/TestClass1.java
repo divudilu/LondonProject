@@ -8,6 +8,7 @@ public class TestClass1 {
 	public static void main(String[] args) {
 
 		System.out.println("Hello GITHUB Clone London");
+		System.out.println("Hello GITHUB Clone London");
 		
 		
 		int z,x,y;
