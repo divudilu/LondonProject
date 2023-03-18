@@ -20,11 +20,11 @@ public class TestClass1 {
 		System.out.println(z);
 
 		
-		WebDriver driver=new ChromeDriver();
+		//WebDriver driver=new ChromeDriver();
 		
-		driver.get("https://google.co.in");
+		//driver.get("https://google.co.in");
 		
-		driver.close();
+		//driver.close();
 
 	}
 
