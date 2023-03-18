@@ -1,7 +1,6 @@
 package com.london.org;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+
 
 public class TestClass1 {
 
